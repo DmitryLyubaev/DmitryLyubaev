@@ -8,10 +8,6 @@ I bring 25 years of software development experience. My commercial work includes
 
 My independent projects extend that experience into applied AI, modern web applications, cloud delivery and data platforms. The selected work below comes from 30 completed portfolio milestones, each with its own scope and documented limits.
 
-<img src="https://raw.githubusercontent.com/DmitryLyubaev/payments-reconciliation-assistant/774e4df2d1d05342623ef2b10c42ec69238877f5/docs/images/review-live.png" alt="Synthetic payments reconciliation: source evidence and a Claude proposal awaiting reviewer approval" width="680">
-
-*Synthetic payments reconciliation: source evidence beside a proposal awaiting reviewer approval.*
-
 ## Selected projects
 
 | Project | Engineering focus |
@@ -22,10 +18,6 @@ My independent projects extend that experience into applied AI, modern web appli
 | [Workflow review console](https://github.com/DmitryLyubaev/workflow-review-console) | React/Next.js interface, authenticated decisions and controlled retries |
 | [Delivery exceptions MCP](https://github.com/DmitryLyubaev/delivery-exceptions-mcp) | C#/.NET, delegated access and scoped business tools |
 | [Fabric cost and quality platform](https://github.com/DmitryLyubaev/llm-cost-quality-fabric) | Live PySpark/Delta pipelines, KQL telemetry, Power BI/DAX and a Foundry-connected data agent |
-
-<img src="https://raw.githubusercontent.com/DmitryLyubaev/llm-cost-quality-fabric/03c473b428891eedc74fdf6bdf2258abbeef17aa/docs/live/p11/2026-11-17-p1-spend-owner.png" alt="Personal Fabric portfolio: Power BI spend report over a Direct Lake model" width="680">
-
-*Personal portfolio telemetry in Power BI. The report also demonstrates quality and gateway views, with project-scoped row-level security. The [data-agent comparison](https://github.com/DmitryLyubaev/llm-cost-quality-fabric/blob/dev/capstone/report.md) records both successful and incorrect answers.*
 
 ## Hands-on portfolio stack
 
