@@ -4,9 +4,9 @@
 
 I turn operational problems into working software - understanding what customers need, explaining the options, implementing changes and following through on real-world issues.
 
-I bring 25 years of software development experience. My commercial work includes self-checkout and kiosk workflows, payment and rewards integrations, retail data exchange, reconciliation and production troubleshooting.
+I bring 25 years of software development experience. My commercial work includes self-checkout and kiosk workflows, payment and rewards integrations, retail data exchange, reconciliation and production troubleshooting. My foundation is Delphi and SQL, with C# integration libraries and current C#/.NET Head Office Controller work in progress.
 
-My established commercial foundation is Delphi and SQL. My recent independent projects extend that experience into applied AI, modern web applications, cloud delivery and reliable backend services.
+My independent projects extend that experience into applied AI, modern web applications, cloud delivery and data platforms. The selected work below comes from 30 completed portfolio milestones, each with its own scope and documented limits.
 
 <img src="https://raw.githubusercontent.com/DmitryLyubaev/payments-reconciliation-assistant/774e4df2d1d05342623ef2b10c42ec69238877f5/docs/images/review-live.png" alt="Synthetic payments reconciliation: source evidence and a Claude proposal awaiting reviewer approval" width="680">
 
@@ -18,12 +18,24 @@ My established commercial foundation is Delphi and SQL. My recent independent pr
 |---|---|
 | [ReleaseLens](https://github.com/DmitryLyubaev/releaselens) | Cited repository answers, measured retrieval and Azure delivery |
 | [Payments reconciliation assistant](https://github.com/DmitryLyubaev/payments-reconciliation-assistant) | Claude tool use, exact calculations, evidence and persisted reviewer approval |
-| [AWS retail integration](https://github.com/DmitryLyubaev/aws-retail-integration) | Transactional outbox, queues, idempotency and recovery |
+| [AWS retail integration](https://github.com/DmitryLyubaev/aws-retail-integration) | Transactional outbox, queues, idempotency and recovery on ECS/Fargate, SQS and RDS |
 | [Workflow review console](https://github.com/DmitryLyubaev/workflow-review-console) | React/Next.js interface, authenticated decisions and controlled retries |
 | [Delivery exceptions MCP](https://github.com/DmitryLyubaev/delivery-exceptions-mcp) | C#/.NET, delegated access and scoped business tools |
-| [Observable Python AI service](https://github.com/DmitryLyubaev/observable-python-ai-service) | FastAPI, background jobs, replayable progress and tracing |
+| [Fabric cost and quality platform](https://github.com/DmitryLyubaev/llm-cost-quality-fabric) | Live PySpark/Delta pipelines, KQL telemetry, Power BI/DAX and a Foundry-connected data agent |
 
-These are personal portfolio demonstrations using synthetic business data. Their documentation records measured results, unsuccessful experiments and the limits of what was demonstrated.
+<img src="https://raw.githubusercontent.com/DmitryLyubaev/llm-cost-quality-fabric/03c473b428891eedc74fdf6bdf2258abbeef17aa/docs/live/p11/2026-11-17-p1-spend-owner.png" alt="Personal Fabric portfolio: Power BI spend report over a Direct Lake model" width="680">
+
+*Personal portfolio telemetry in Power BI. The report also demonstrates quality and gateway views, with project-scoped row-level security. The [data-agent comparison](https://github.com/DmitryLyubaev/llm-cost-quality-fabric/blob/dev/capstone/report.md) records both successful and incorrect answers.*
+
+## Hands-on portfolio stack
+
+- **Applications:** TypeScript/Node.js, React/Next.js, Python/FastAPI, Django/Angular, C#/.NET and PostgreSQL. Further work covers Java/Spring/Kafka and durable Temporal workflows.
+- **AI:** RAG and hybrid retrieval, LangGraph, Foundry, MCP, model/tool integrations, evaluation and reviewer approval.
+- **Data and cloud:** Fabric, OneLake, PySpark/Delta, KQL, Power BI/DAX, dbt/Airflow, Azure, AWS, Docker and Terraform.
+
+The [observable Python service](https://github.com/DmitryLyubaev/observable-python-ai-service) adds FastAPI, Redis/Celery, replayable progress and OpenTelemetry tracing.
+
+These are personal portfolio demonstrations using synthetic business scenarios, public datasets and my own portfolio telemetry. Their reports record measured results, unsuccessful experiments and the limits of what was demonstrated. Commercial experience and personal projects are distinct.
 
 Based in Brisbane, Australia.
 
